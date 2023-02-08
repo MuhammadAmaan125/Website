@@ -1,0 +1,180 @@
+
+  h6{
+    margin-left: 250px;
+    margin-top: 10px;
+    color: white;
+  }
+button{
+  border: none;
+  margin-right: 15px;
+}
+.fa-brands{
+  color: white;
+}
+img{
+  width: 200px;
+}
+.navbar1{
+  display: inline-flex;
+  list-style: none ;
+  
+}
+img{    
+  display: inline-flex;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+#li1{
+  margin-left: 70px;
+  margin-top: 10px;
+}
+.div1{
+  display: inline-flex;
+}
+.navbar1{
+    margin-top: 15px;
+}
+
+
+
+
+marquee{
+    background-color: blue;
+    color: white;
+}
+
+h3{
+    text-align: center;
+    color:blue;
+}
+span{
+    color: green;
+}
+.logo{
+   margin-left:  44%;
+   width: 150px;
+}
+.maindiv{
+    width: 350px;
+    height: 250px;
+    box-shadow: 1px 3px 8px gray;
+    border-radius: 40px;
+    margin-top: 25px;
+}
+.sadqah{
+    margin-left: 100px;
+}
+h5{
+    text-align: center;
+}
+.family{
+    width: 200px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.welfare{
+    margin-top: 30px;
+}
+.medical{
+    width: 150px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.dastar{
+    width: 180px;
+    margin-left: 90px;
+    margin-top: 15px;
+}
+.nalka{
+    margin-left: 80px;
+    margin-top: 8px;
+}
+.edu{
+    margin-left: 100px;
+    width: 170px;
+    margin-top: 10px;
+}
+.education{
+    margin-top: 20px;
+}
+.mission{
+  text-align: center;
+  margin-top: 30px;
+  margin-left: -150px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.one{
+  height: 80px;
+  width: 40%;
+  margin-left: 10px;
+  margin-top: 20px;
+display: inline-block;
+  background-color: lightgrey;
+  border: 1px gray solid;
+  border-radius: 10px;
+  box-shadow: 1px 2px 4px gray;
+}
+
+.heading{
+  font-weight: bold;
+  margin-left: 15px;
+  margin-top: 25px;
+  color: blue;
+}
+.more{
+  text-decoration: none;
+  color: blue;
+}
+.color{
+  background-color: lightblue;
+  width: 100%;
+  margin-top: 70px;
+  height: 300px;
+}
+.collage{
+  width: 950px;
+ margin-left: 200px;
+  align-items: center;
+  margin-top: 50px;
+}
+h2{
+  color: blue;
+  text-align: center;
+  margin-top: 20px;
+ 
+}
+.white{
+  background-color: white;
+margin-top: 10px;
+}
+.log{
+  margin-left: 600px;
+  width: 150px;
+}
+/* @media screen and (max-width:800px) {
+  h6{
+    display: none;
+  }  
+  } */
+
+
+
+@media screen and (max-width:400px) {
+  .collage{
+    width: 400px; 
+  }
+  .log{
+    width: 100px;
+    margin-left: 350px;
+  }
+
+}
+@media screen and (max-width:1080px){
+  .navbar1{
+    flex-direction: column;
+  }
+}
